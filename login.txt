@@ -1,3 +1,4 @@
 Starts codeing for new login feature!
 completing login feature 50%
 completing login feature 80%
+completing login feature 100%
