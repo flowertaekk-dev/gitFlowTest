@@ -1,1 +1,4 @@
 git conflict test in dev side
+conflict test - 1
+
+-- conflict solved!
