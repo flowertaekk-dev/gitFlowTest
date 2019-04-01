@@ -1,8 +1,8 @@
 first commit
 dealt with master collision
 start with develop branch
-updated develop branch_1
-updated develop branch_2
-updated develop branch_4
+updated develop branch_a
+updated develop branch_b
+updated develop branch_c
 updated feature_2 branch-1
 updated develop branch_5 changed at develop branch
