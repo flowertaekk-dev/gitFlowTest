@@ -1,2 +1,5 @@
-hello git
-it is for merge test with -Xours option
+hello git.
+it should be a conflict.
+but I will handle it with -Xours option to ignore this change.
+
+other test!!
