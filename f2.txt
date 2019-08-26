@@ -4,4 +4,4 @@ conflict test - 1
 -- conflict solved!
 testhelloworldmerge
 
-could it be last test for merge???
+could it be last test for merge??? No... it failed...
