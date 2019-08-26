@@ -1,0 +1,3 @@
+hello git.
+it should be a conflict.
+but I will handle it with -Xours option to ignore this change.
