@@ -2,13 +2,13 @@ first commit
 dealt with master collision
 start with develop branch
 
-updated develop branch_ABDDD
-updated develop branch_B
+updated develop branch_ABDDD    
+    updated develop branch_B
 updated develop branch_C changed at develop branch
-updated feature_2 branch-1
-updated develop branch_5 changed at develop branch
-
+    updated feature_2 branch-1
+updated develop branch_5 changed at develop branch   
+     
 time flies!
 haha happy weekend!
-
+     
 change f1.txt
